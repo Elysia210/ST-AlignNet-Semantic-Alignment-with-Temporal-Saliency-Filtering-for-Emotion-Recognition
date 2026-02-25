@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs and checkpoints
+logs/
+checkpoints/
+runs/
+*.log
+
+# Data files (avoid uploading DEAP/MAHNOB raw data)
+data/
+*.npy
+*.npz
+*.pkl
+*.mat
+*.csv
+
+# Images / videos (if large)
+*.avi
+*.mp4
+*.mov
+frames/
