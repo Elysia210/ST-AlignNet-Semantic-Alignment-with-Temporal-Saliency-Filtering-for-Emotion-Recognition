@@ -4,11 +4,6 @@
 > Ruimin Zhang · Columbia University, Department of Statistics  
 > 📧 rz2737@columbia.edu
 
----
-
-## 📣 News
-
-- **2026-02-09**: Preprint submitted. Code is publicly available. Paper link will be updated upon acceptance.
 
 ---
 
