@@ -165,7 +165,7 @@ python our_method/preprocess_dependent_pkl.py      # 10-fold splits
 python our_method/preprocess_independent_pkl.py
 ```
 
-EEG signals are bandpass filtered (4–45 Hz), Z-score normalized per channel, and downsampled to T=128 steps. Facial features are adaptively pooled to T=128 to match EEG resolution.
+EEG signals are bandpass filtered (4–45 Hz) and Z-score normalized per channel. The first 128 time-steps (1 second at 128 Hz) are retained as the EEG input segment per trial
 
 ---
 
